@@ -80,6 +80,5 @@ Puis ouvre PDF Kiosk et appuie 3 fois sur le bouton supérieur.
 
 ## Important
 
-Avec un dépôt GitHub **public**, `deck.pdf` est lui aussi publiquement accessible pendant qu'il est hébergé sur GitHub Pages. N'utilise pas cette méthode pour un document confidentiel.
 
 Quand tu remplaces `deck.pdf`, ouvre le kiosque une fois avec Internet pour que la nouvelle version soit remise en cache.
